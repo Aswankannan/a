@@ -18,24 +18,22 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}!
+HAI {}, എൻ്റെ പേര് സുന്ദരൻ😁!
+b നോക്കേണ്ട നിനക്ക് എന്നെയും നിൻ്റെ ഗ്രൂപ്പിൽ "aad" ആക്കാൻ പറ്റില്ല
+ചമ്മിലെ വേഗം വിട്ടോ😝 /b
+
 
 im a group manager bot maintained by CMZ
 
-
-
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
 """
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+Hello! my name SUNDHARAN😁.
 
 *Main* available commands:
  - /start: Start the bot...
- - /help: help....
- - /donate: To find out more about donating!
  - /settings:
    - in PM: To find out what SETTINGS you have set....
    - in a group:
